@@ -1,0 +1,26 @@
+[
+  {
+    "category": "clickfix",
+    "hash": "ff062a38694f0978a2773897cb76a35285ae467f0b0a0436c72d2a8b304f45a8"
+  },
+  {
+    "category": "takeover_redirect",
+    "hash": "d3dee510f632c6252641192f50367dfb68628ae7a0c9b604ed8dd5fe0207f187"
+  },
+  {
+    "category": "takeover_redirect",
+    "hash": "288a3f05347e12e9c77dbbdb9c9073dff5f804f24a5f0c4af489518dd3d3febc"
+  },
+  {
+    "category": "takeover_redirect",
+    "hash": "3fc70aa0b26abc38765058919b24d3856c36f0ccf26d2e9987b8c015212ce750"
+  },
+  {
+    "category": "takeover_redirect",
+    "hash": "b520dc76bc396172a128207e25c9d15bec5ccdbfbc7b3d480a0673d08da4783d"
+  },
+  {
+    "category": "webshell",
+    "hash": "0d5bae1840fa6e9d9c1300c4b43b26dacd9e9f5444fbf82a4d0a640dc6f02ef8"
+  }
+]
