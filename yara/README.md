@@ -39,4 +39,4 @@ Please do not submit malware samples through issues for new rule requests.
 
 ## License
 
-CC BY 4.0. See [LICENSE.md](LICENSE.md).
+CC BY 4.0. See [LICENSE.md](../LICENSE.md).

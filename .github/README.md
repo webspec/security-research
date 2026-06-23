@@ -11,9 +11,9 @@ high-confidence standard intended to keep false positives at a minimum.
 
 ## Layout
 
-- [`yara/`](yara/) contains YARA rules for malware, webshell, redirect, persistence, and other IOC patterns.
-- [`dga/`](dga/) contains domain lists and reference screenshots for tracked DGA or related domain clusters.
-- [`hashes/`](hashes/) contains cryptographic and fuzzy hashes for tracked malware and IOC samples.
+- [`yara/`](https://github.com/webspec-design/security-research/tree/main/yara) contains YARA rules for malware, webshell, redirect, persistence, and other IOC patterns.
+- [`dga/`](https://github.com/webspec-design/security-research/tree/main/dga) contains domain lists and reference screenshots for tracked DGA or related domain clusters.
+- [`hashes/`](https://github.com/webspec-design/security-research/tree/main/hashes) contains cryptographic and fuzzy hashes for tracked malware and IOC samples.
 
 ## Issues
 
@@ -30,4 +30,4 @@ Please do not submit malware samples through issues for new requests.
 
 ## License
 
-CC BY 4.0. See [LICENSE.md](LICENSE.md).
+CC BY 4.0. See [LICENSE.md](https://github.com/webspec-design/security-research/blob/main/LICENSE.md).
