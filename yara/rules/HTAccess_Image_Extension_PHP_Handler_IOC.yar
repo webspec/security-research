@@ -15,8 +15,8 @@ rule HTAccess_Image_Extension_PHP_Handler_IOC
         license_url = "https://creativecommons.org/licenses/by/4.0/"
         date = "2026-06-15"
         tlp = "clear"
-        yarahub_rule_matching_tlp = "clear"
-        yarahub_rule_sharing_tlp = "clear"
+        yarahub_rule_matching_tlp = "TLP:WHITE"
+        yarahub_rule_sharing_tlp = "TLP:WHITE"
         yarahub_uuid = "7f653829-98a6-4ea7-9ca6-4a1620900479"
         yarahub_reference_md5 = "6bb6f03dafff71bf7a91df2af466f673"
 

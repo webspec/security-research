@@ -15,8 +15,8 @@ rule Telegram_Channel_Fetch_IOC
         license_url = "https://creativecommons.org/licenses/by/4.0/"
         date = "2026-06-17"
         tlp = "clear"
-        yarahub_rule_matching_tlp = "clear"
-        yarahub_rule_sharing_tlp = "clear"
+        yarahub_rule_matching_tlp = "TLP:WHITE"
+        yarahub_rule_sharing_tlp = "TLP:WHITE"
         yarahub_uuid = "e9252a4f-2601-4590-b320-f74cca591ec1"
         yarahub_reference_md5 = "826516d73b22dfeaa069867c76ac5898"
 

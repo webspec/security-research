@@ -15,8 +15,8 @@ rule NDSWlike_Takeover_Redirect
         license_url = "https://creativecommons.org/licenses/by/4.0/"
         date = "2026-06-15"
         tlp = "clear"
-        yarahub_rule_matching_tlp = "clear"
-        yarahub_rule_sharing_tlp = "clear"
+        yarahub_rule_matching_tlp = "TLP:WHITE"
+        yarahub_rule_sharing_tlp = "TLP:WHITE"
         yarahub_uuid = "4efe1236-bfeb-4ce2-847d-f51d1c754417"
         yarahub_reference_md5 = "19942b5e9435879b6e1f125a2cba76f1"
 

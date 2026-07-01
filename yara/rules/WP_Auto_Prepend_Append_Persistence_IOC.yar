@@ -15,8 +15,8 @@ rule WP_Auto_Prepend_Append_Persistence_IOC
         license_url = "https://creativecommons.org/licenses/by/4.0/"
         date = "2026-06-15"
         tlp = "clear"
-        yarahub_rule_matching_tlp = "clear"
-        yarahub_rule_sharing_tlp = "clear"
+        yarahub_rule_matching_tlp = "TLP:WHITE"
+        yarahub_rule_sharing_tlp = "TLP:WHITE"
         yarahub_uuid = "e82916d1-bbc5-4e96-8adf-5530e879d22e"
         yarahub_reference_md5 = "43c5adb1de31b3a7a100d1cac21d60ff"
 

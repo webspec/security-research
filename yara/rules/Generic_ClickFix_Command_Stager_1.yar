@@ -15,8 +15,8 @@ rule Generic_ClickFix_Command_Stager_1
         license_url = "https://creativecommons.org/licenses/by/4.0/"
         date = "2026-06-17"
         tlp = "clear"
-        yarahub_rule_matching_tlp = "clear"
-        yarahub_rule_sharing_tlp = "clear"
+        yarahub_rule_matching_tlp = "TLP:WHITE"
+        yarahub_rule_sharing_tlp = "TLP:WHITE"
         yarahub_uuid = "f0cff656-b725-4f57-8b63-6ed9fea18edf"
         yarahub_reference_md5 = "5b8be20e147d7e943bd138da91da7f7f"
 

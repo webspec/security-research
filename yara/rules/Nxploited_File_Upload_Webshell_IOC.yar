@@ -15,8 +15,8 @@ rule Nxploited_File_Upload_Webshell_IOC
         license_url = "https://creativecommons.org/licenses/by/4.0/"
         date = "2026-06-22"
         tlp = "clear"
-        yarahub_rule_matching_tlp = "clear"
-        yarahub_rule_sharing_tlp = "clear"
+        yarahub_rule_matching_tlp = "TLP:WHITE"
+        yarahub_rule_sharing_tlp = "TLP:WHITE"
         yarahub_uuid = "c943905b-4faf-48f7-add9-76f5c933490a"
         yarahub_reference_md5 = "7c61b52f9d46b7819d06d456e0bf5813"
 

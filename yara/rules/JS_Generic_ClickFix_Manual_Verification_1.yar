@@ -15,8 +15,8 @@ rule JS_Generic_ClickFix_Manual_Verification_1
         license_url = "https://creativecommons.org/licenses/by/4.0/"
         date = "2026-06-17"
         tlp = "clear"
-        yarahub_rule_matching_tlp = "clear"
-        yarahub_rule_sharing_tlp = "clear"
+        yarahub_rule_matching_tlp = "TLP:WHITE"
+        yarahub_rule_sharing_tlp = "TLP:WHITE"
         yarahub_uuid = "aed03f50-28f8-408a-a799-ed8aec04402f"
         yarahub_reference_md5 = "7fa6385ceb0beb80762370f92cd070c3"
 

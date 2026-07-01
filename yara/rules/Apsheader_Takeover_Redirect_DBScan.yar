@@ -15,8 +15,8 @@ rule Apsheader_Takeover_Redirect_DBScan
         license_url = "https://creativecommons.org/licenses/by/4.0/"
         date = "2026-06-15"
         tlp = "clear"
-        yarahub_rule_matching_tlp = "clear"
-        yarahub_rule_sharing_tlp = "clear"
+        yarahub_rule_matching_tlp = "TLP:WHITE"
+        yarahub_rule_sharing_tlp = "TLP:WHITE"
         yarahub_uuid = "9e5f79d1-632f-4d3c-9738-9f732ddd95a8"
         yarahub_reference_md5 = "413e06c00254b2b2d5b2047a50a3005f"
 

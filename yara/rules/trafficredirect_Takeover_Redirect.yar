@@ -15,8 +15,8 @@ rule trafficredirect_Takeover_Redirect
         license_url = "https://creativecommons.org/licenses/by/4.0/"
         date = "2026-06-15"
         tlp = "clear"
-        yarahub_rule_matching_tlp = "clear"
-        yarahub_rule_sharing_tlp = "clear"
+        yarahub_rule_matching_tlp = "TLP:WHITE"
+        yarahub_rule_sharing_tlp = "TLP:WHITE"
         yarahub_uuid = "1a1fcb6a-4e59-431e-a7e4-d92e93b6a9d0"
         yarahub_reference_md5 = "f9d61641efc8a8ae1ad980034b7feed2"
 

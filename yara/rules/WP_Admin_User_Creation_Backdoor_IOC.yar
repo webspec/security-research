@@ -15,8 +15,8 @@ rule WP_Admin_User_Creation_Backdoor_IOC
         license_url = "https://creativecommons.org/licenses/by/4.0/"
         date = "2026-06-15"
         tlp = "clear"
-        yarahub_rule_matching_tlp = "clear"
-        yarahub_rule_sharing_tlp = "clear"
+        yarahub_rule_matching_tlp = "TLP:WHITE"
+        yarahub_rule_sharing_tlp = "TLP:WHITE"
         yarahub_uuid = "2f57e5c4-f7f7-421e-9b16-bc4909d7dcc2"
         yarahub_reference_md5 = "b1cf341ce4b5193a369836aaaac07388"
 

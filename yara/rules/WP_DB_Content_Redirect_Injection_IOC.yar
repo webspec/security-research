@@ -15,8 +15,8 @@ rule WP_DB_Content_Redirect_Injection_IOC
         license_url = "https://creativecommons.org/licenses/by/4.0/"
         date = "2026-06-15"
         tlp = "clear"
-        yarahub_rule_matching_tlp = "clear"
-        yarahub_rule_sharing_tlp = "clear"
+        yarahub_rule_matching_tlp = "TLP:WHITE"
+        yarahub_rule_sharing_tlp = "TLP:WHITE"
         yarahub_uuid = "87884599-3a07-4536-bd9e-9ecbefaf5d78"
         yarahub_reference_md5 = "696fce4e80f0c2c31ff9c1f7db5167c6"
 
