@@ -17,6 +17,7 @@ rule WP_DB_Content_Redirect_Injection_IOC
         tlp = "clear"
         yarahub_rule_matching_tlp = "clear"
         yarahub_rule_sharing_tlp = "clear"
+        yarahub_uuid = "87884599-3a07-4536-bd9e-9ecbefaf5d78"
         yarahub_reference_md5 = "696fce4e80f0c2c31ff9c1f7db5167c6"
 
         description = "Detects PHP code updating WordPress database content or options with external script, iframe, or redirect payloads"

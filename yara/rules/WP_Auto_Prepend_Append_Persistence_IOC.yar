@@ -17,6 +17,7 @@ rule WP_Auto_Prepend_Append_Persistence_IOC
         tlp = "clear"
         yarahub_rule_matching_tlp = "clear"
         yarahub_rule_sharing_tlp = "clear"
+        yarahub_uuid = "e82916d1-bbc5-4e96-8adf-5530e879d22e"
         yarahub_reference_md5 = "43c5adb1de31b3a7a100d1cac21d60ff"
 
         description = "Detects auto_prepend_file or auto_append_file persistence pointing at suspicious WordPress upload, temp, or hidden PHP paths"

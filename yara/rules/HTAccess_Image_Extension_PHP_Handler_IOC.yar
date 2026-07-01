@@ -17,6 +17,7 @@ rule HTAccess_Image_Extension_PHP_Handler_IOC
         tlp = "clear"
         yarahub_rule_matching_tlp = "clear"
         yarahub_rule_sharing_tlp = "clear"
+        yarahub_uuid = "7f653829-98a6-4ea7-9ca6-4a1620900479"
         yarahub_reference_md5 = "6bb6f03dafff71bf7a91df2af466f673"
 
         description = "Detects .htaccess handler rules that make image extensions execute as PHP"

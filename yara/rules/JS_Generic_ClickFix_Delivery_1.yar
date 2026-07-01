@@ -17,6 +17,7 @@ rule JS_Generic_ClickFix_Delivery_1
         tlp = "clear"
         yarahub_rule_matching_tlp = "clear"
         yarahub_rule_sharing_tlp = "clear"
+        yarahub_uuid = "4c12b3e7-7956-4b36-b666-e66da18c34eb"
         yarahub_reference_md5 = "c99c2ec3ba112b6dc27a0433a890bc3d"
 
         description = "Detects ClickFix delivery wrappers, cloakers, and packed loaders used to stage fake verification pages or commands"

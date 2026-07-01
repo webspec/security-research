@@ -17,6 +17,7 @@ rule JS_Generic_ClickFix_Manual_Verification_1
         tlp = "clear"
         yarahub_rule_matching_tlp = "clear"
         yarahub_rule_sharing_tlp = "clear"
+        yarahub_uuid = "aed03f50-28f8-408a-a799-ed8aec04402f"
         yarahub_reference_md5 = "7fa6385ceb0beb80762370f92cd070c3"
 
         description = "Detects fake Cloudflare manual verification pages that instruct the user to open Run or Terminal and paste a command"

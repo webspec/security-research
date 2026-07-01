@@ -17,6 +17,7 @@ rule Telegram_Channel_Fetch_IOC
         tlp = "clear"
         yarahub_rule_matching_tlp = "clear"
         yarahub_rule_sharing_tlp = "clear"
+        yarahub_uuid = "e9252a4f-2601-4590-b320-f74cca591ec1"
         yarahub_reference_md5 = "826516d73b22dfeaa069867c76ac5898"
 
         description = "Detects PHP or JavaScript that fetches Telegram channel preview URLs under t.me/s/"

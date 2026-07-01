@@ -17,6 +17,7 @@ rule Apsheader_Takeover_Redirect_DBScan
         tlp = "clear"
         yarahub_rule_matching_tlp = "clear"
         yarahub_rule_sharing_tlp = "clear"
+        yarahub_uuid = "9e5f79d1-632f-4d3c-9738-9f732ddd95a8"
         yarahub_reference_md5 = "413e06c00254b2b2d5b2047a50a3005f"
 
         description = "Detects DB-stored WPCode apsheader PHP loader or redirect injection"

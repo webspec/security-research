@@ -17,6 +17,7 @@ rule Apsheader_Takeover_Redirect
         tlp = "clear"
         yarahub_rule_matching_tlp = "clear"
         yarahub_rule_sharing_tlp = "clear"
+        yarahub_uuid = "7c350704-f85c-4521-ac44-73a9203eca7f"
         yarahub_reference_md5 = "413e06c00254b2b2d5b2047a50a3005f"
 
         description = "Detects WordPress apsheader redirect loaders using PHP chr/strrev staging and obfuscated JavaScript injection"

@@ -17,6 +17,7 @@ rule WP_Admin_User_Creation_Backdoor_IOC
         tlp = "clear"
         yarahub_rule_matching_tlp = "clear"
         yarahub_rule_sharing_tlp = "clear"
+        yarahub_uuid = "2f57e5c4-f7f7-421e-9b16-bc4909d7dcc2"
         yarahub_reference_md5 = "b1cf341ce4b5193a369836aaaac07388"
 
         description = "Detects WordPress code that creates or inserts administrator users from hook or request-controlled backdoor logic"

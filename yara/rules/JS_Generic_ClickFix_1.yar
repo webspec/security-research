@@ -17,6 +17,7 @@ rule JS_Generic_ClickFix_1
         tlp = "clear"
         yarahub_rule_matching_tlp = "clear"
         yarahub_rule_sharing_tlp = "clear"
+        yarahub_uuid = "0fb4e2a2-1f91-4da7-9b35-dd148195ada6"
         yarahub_reference_md5 = "1cb1271b43fd1e22df263a349470a839"
 
         description = "Detects ClickFix/fake CAPTCHA JavaScript that writes to clipboard and instructs the user to run a Windows command"

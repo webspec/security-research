@@ -17,6 +17,7 @@ rule Nxploited_File_Upload_Webshell_IOC
         tlp = "clear"
         yarahub_rule_matching_tlp = "clear"
         yarahub_rule_sharing_tlp = "clear"
+        yarahub_uuid = "c943905b-4faf-48f7-add9-76f5c933490a"
         yarahub_reference_md5 = "7c61b52f9d46b7819d06d456e0bf5813"
 
         description = "Detects the Nxploited PHP upload webshell by its branding and same-directory upload behavior"

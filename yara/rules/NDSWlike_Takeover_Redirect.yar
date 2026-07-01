@@ -17,6 +17,7 @@ rule NDSWlike_Takeover_Redirect
         tlp = "clear"
         yarahub_rule_matching_tlp = "clear"
         yarahub_rule_sharing_tlp = "clear"
+        yarahub_uuid = "4efe1236-bfeb-4ce2-847d-f51d1c754417"
         yarahub_reference_md5 = "19942b5e9435879b6e1f125a2cba76f1"
 
         description = "Detects NDSW-like JavaScript redirect loaders using undefined guards, odd-index decoding, and dynamic script or pixel loading"
