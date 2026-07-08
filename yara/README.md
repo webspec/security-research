@@ -2,6 +2,8 @@
 
 A public set of YARA rules maintained by Webspec. Rules mostly cover malware and IOC patterns for WordPress/PHP/JS.
 
+Rules are written for YARA-X and kept compatible with older YARA releases where practical.
+
 ## Yaraw
 
 ### Metadata
