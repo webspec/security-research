@@ -26,5 +26,9 @@
   {
     "category": "webshell",
     "hash": "4ac218ea4f2df68050d66aa2b920d582bfaac402056dd7fd130731aa8cd12d01281942c961d02ba4a1cfeab3ee07ab62"
+  },
+  {
+    "category": "webshell",
+    "hash": "dee06e6d0f08d37bd1505addae9cf64c09943786a0e668d3e856512dec22ea22c7c6b0d0781d95eb5d0dceccf635f595"
   }
 ]
